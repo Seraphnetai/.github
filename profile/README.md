@@ -1,26 +1,35 @@
+<img align="center" alt="Banner" src="https://i.ibb.co/XW5KtMM/Substack.png" height = "100%" width = "100%"/>
 
-<h1 align="left">Hi, I'm CTO of Seraphnet 👋</h1> 
-Welcome to the Seraphnet Team Developer Project! This repository serves as a hub for developers within the Seraphnet team to collaborate on various projects, share code snippets, and manage tasks effectively. Our goal is to foster a productive and collaborative environment where team members can contribute their skills and expertise to build innovative solutions.
+<h1 align="left">Ideologically-Transparent Playground for Generative AI Apps</h1> 
+Welcome to the Seraphnet's Team Developer Portal. This repository serves as a hub for developers within Seraphnet to collaborate on various projects, share code snippets, and manage tasks effectively. Our goal is to foster a productive and collaborative environment where team members can contribute their skills and expertise to build innovative solutions.
 
+<br />
+<br />
 
-  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "100%" width = "100%"/>
+**What we are currently working on in Seraphnet**
+
+- 👨🏽‍💻 Data Lake Applications
+- 🌱 RAG Backend
+- 💬 Clearpill Playground
+- ⚡️ Swarm Manager
   
-**Talking about Developers Team Stuffs:**
-
-- 👨🏽‍💻 Currently Building Data Lake Applications
-- 🌱 Currently Building RAG Backend
-- 💬 Currently Building Caterpill Playground
-- ⚡️ Currently Building Swarm Manager
-
-<br />
 <br />
 <br />
 
-## 🏆 My Github Stats:
+Find our product roadmap here: https://trello.com/b/P2eRrMeG
+<br />
+Substack: https://seraphnet.substack.com/
+<br />
+Gitbook: https://docs.seraphnet.ai/
+
+<br />
+<br />
+
+## 🏆 Github Stats:
 ![Seraphnetai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seraphnetai&hide_title=false&count_private=true&show_icons=true&theme=tokyonight)
 ![GitHub Views](https://komarev.com/ghpvc/?username=Seraphnetai)
 
-## 🏅 My Most Used Languages:
+## 🏅 Most Used Languages:
 [![Seraphnetai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seraphnetai&hide=javascript,html)](https://github.com/Seraphnetai/github-readme-stats)
 
 
