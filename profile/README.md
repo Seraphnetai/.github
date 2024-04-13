@@ -30,7 +30,7 @@ Gitbook: https://docs.seraphnet.ai/
 ![GitHub Views](https://komarev.com/ghpvc/?username=Seraphnetai)
 
 ## 🏅 Most Used Languages:
-[![Seraphnetai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seraphnetai&hide=javascript,html)](https://github.com/Seraphnetai/github-readme-stats)
+[![Seraphnetai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devseraphnet&hide=javascript,html)](https://github.com/devseraphnet/github-readme-stats)
 
 
 
