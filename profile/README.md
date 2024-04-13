@@ -26,8 +26,8 @@ Gitbook: https://docs.seraphnet.ai/
 <br />
 
 ## 🏆 Github Stats:
-![Seraphnetai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seraphnetai&hide_title=false&count_private=true&show_icons=true&theme=tokyonight)
-![GitHub Views](https://komarev.com/ghpvc/?username=Seraphnetai)
+![Seraphnetai's GitHub stats](https://github-readme-stats.vercel.app/api?username=devseraphnet&hide_title=false&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Views](https://komarev.com/ghpvc/?username=devseraphnet)
 
 ## 🏅 Most Used Languages:
 [![Seraphnetai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devseraphnet&hide=javascript,html)](https://github.com/devseraphnet/github-readme-stats)
