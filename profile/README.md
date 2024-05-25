@@ -1,6 +1,6 @@
 <img align="center" alt="Banner" src="https://i.ibb.co/NpkYw6x/Frame-2.png" height = "100%" width = "100%"/>
 
-<h1 align="left">Ideologically-Transparent Playground for Generative AI Apps</h1> 
+<h1 align="left">Base Layer for Ideologically-Transparent Generative AI Apps</h1> 
 Welcome to the Seraphnet's Team Developer Portal. 
 
 <br />
