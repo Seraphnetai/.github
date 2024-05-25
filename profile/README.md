@@ -31,11 +31,6 @@ Twitter: https://x.com/seraphnet
 ![Seraphnetai's GitHub stats](https://github-readme-stats.vercel.app/api?username=devseraphnet&hide_title=false&count_private=true&show_icons=true&theme=tokyonight)
 ![GitHub Views](https://komarev.com/ghpvc/?username=devseraphnet)
 
-## 🏅 Most Used Languages:
-[![Seraphnetai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devseraphnet&hide=javascript,html)](https://github.com/devseraphnet/github-readme-stats)
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
