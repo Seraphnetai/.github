@@ -2,27 +2,29 @@
 
 <h1 align="left">Ideologically-Transparent Playground for Generative AI Apps</h1> 
 Welcome to the Seraphnet's Team Developer Portal. This repository serves as a hub for developers within Seraphnet to collaborate on various projects, share code snippets, and manage tasks effectively. Our goal is to foster a productive and collaborative environment where team members can contribute their skills and expertise to build innovative solutions.
+<br />
+<br />
 
+Please find Seraphnet's official documentation in the following link: https://docs.seraphnet.ai/
 <br />
 <br />
 
 **What we are currently working on in Seraphnet**
 
-- 👨🏽‍💻 Data Lake Applications
-- 🌱 RAG Backend
 - 💬 Clearpill Playground
 - ⚡️ Swarm Manager
-  
-<br />
+- 🌱 RAG Backend
+- 👨🏽‍💻 Data Lake Applications
+
 <br />
 
-Find our product roadmap here: https://trello.com/b/P2eRrMeG
+Product roadmap: https://trello.com/b/P2eRrMeG
 <br />
 Substack: https://seraphnet.substack.com/
 <br />
-Gitbook: https://docs.seraphnet.ai/
-
+Discord: https://discord.com/invite/Ubf2d4g6zg
 <br />
+Twitter: https://x.com/seraphnet
 <br />
 
 ## 🏆 Github Stats:
