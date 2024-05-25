@@ -1,8 +1,14 @@
 <img align="center" alt="Banner" src="https://i.ibb.co/NpkYw6x/Frame-2.png" height = "100%" width = "100%"/>
 
 <h1 align="left">Ideologically-Transparent Playground for Generative AI Apps</h1> 
-Welcome to the Seraphnet's Team Developer Portal. This repository serves as a hub for developers within Seraphnet to collaborate on various projects, share code snippets, and manage tasks effectively. Our goal is to foster a productive and collaborative environment where team members can contribute their skills and expertise to build innovative solutions.
+Welcome to the Seraphnet's Team Developer Portal. 
+
 <br />
+<br />
+
+This repository serves as a hub for developers within Seraphnet to collaborate on various projects, share code snippets, and manage tasks effectively. 
+
+Our goal is to foster a productive and collaborative environment where team members can contribute their skills and expertise to build innovative solutions.
 <br />
 
 Please find Seraphnet's official documentation in the following link: https://docs.seraphnet.ai/
